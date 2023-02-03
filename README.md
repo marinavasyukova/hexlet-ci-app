@@ -1,3 +1,5 @@
+[![Actions Status](https://github.com/marinavasyukova/hexlet-ci-app/workflows/test-action/badge.svg)](https://github.com/marinavasyukova/hexlet-ci-app/actions)
+
 # Example app for CI Hexlet course
 
 Starting boilerplate of [Strapi](https://strapi.io/) application
